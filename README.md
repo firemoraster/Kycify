@@ -7,35 +7,61 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)](https://github.com/)
 
 
-KYCIFY Telegram Bot 🚀
-Description
-KYCIFY Bot is a multilingual Telegram bot providing account verification services for popular cryptocurrency exchanges like Bybit, OKX, Binance, and more. It allows users to select services, add them to a cart, view order details, and access detailed service rules and payment instructions.
+# KYCIFY Telegram Bot 🚀  
 
-Features 🛠️
-Multilingual Support: English, Ukrainian, and Russian.
+**KYCIFY Bot** – це багатомовний Telegram-бот, який пропонує послуги верифікації акаунтів для популярних криптовалютних бірж, таких як **Bybit**, **OKX**, **Binance** та інших. Бот дозволяє вибирати послуги, додавати їх у кошик, переглядати деталі замовлень, а також ознайомлюватися з правилами сервісу та інструкціями оплати.  
+
+---
+
+## 📋 **Особливості**
+
+### 🛠️ **Функціонал:**
+- **Багатомовність:** Підтримуються **англійська**, **українська** та **російська** мови.  
+- **Каталог послуг:** Легко вибирайте біржі та країни для верифікації.  
+- **Функціонал кошика:** Зберігайте, переглядайте та оплачуйте обрані послуги.  
+- **Адмін-інтеграція:** Замовлення та підтвердження оплат автоматично відправляються адміністраторам.  
+- **FAQ та Політики:** Користувачі отримують чіткі правила, гарантії та умови надання послуг.  
+- **Відгуки:** Кнопка для переходу до каналу відгуків.  
+- **Гнучке управління:** Можливість підтримки кількох адміністраторів.
+
+---
+
+## 🖼️ **Скріншоти**  
+
+### **Мовна підтримка**  
+![Language Selection](![image](https://github.com/user-attachments/assets/c9a224cf-462f-4239-b754-86d338d7546a))
+
+Користувачі можуть вибрати зручну мову для взаємодії з ботом.
+
+### **Меню**  
+![Menu](![image](![image](https://github.com/user-attachments/assets/8804c903-9ca6-4391-a8bb-48d79fb68f43))
 
 
-![image](https://github.com/user-attachments/assets/92b9d3e2-0483-4164-a13b-5db461d8c021)
+
+### **Каталог бірж**  
+![Catalog](![image](https://github.com/user-attachments/assets/9001861e-04a5-4255-8a7b-fedbbf92dcd9))  
+Обирайте популярні біржі та доступні країни для верифікації.
+
+### **Кошик**  
+![Cart](![image](https://github.com/user-attachments/assets/7e9cdec6-cb00-40c7-856a-630d54544753))  
+Додавайте послуги до кошика, переглядайте деталі замовлень та переходьте до оплати.
+
+### **FAQ та Правила**  
+![FAQ](![image](https://github.com/user-attachments/assets/d0ae358f-9a70-4395-9205-a11ef1cc496e)
+)  
+Користувачі отримують детальні інструкції, правила сервісу та політики повернення.
+
+---
+
+## ⚙️ **Технології**  
+
+| **Технологія**       | **Опис**                                                                 |
+|-----------------------|-------------------------------------------------------------------------|
+| [**Java 11**](https://www.java.com/) | Основна мова програмування.                                     |
+| [**Telegram Bot API**](https://core.telegram.org/bots/api) | Інтеграція для створення Telegram-ботів.                        |
+| [**Maven**](https://maven.apache.org/) | Система управління залежностями та збірки проєкту.             |
+| [**IntelliJ IDEA**](https://www.jetbrains.com/idea/) | Використовується для написання та налагодження коду.           |
+
+---
 
 
-Service Catalog: Choose exchanges and countries for verification.
-
-
-![image](https://github.com/user-attachments/assets/9d9ece6d-8b46-4633-afca-0f084040df8f)
-
-![image](https://github.com/user-attachments/assets/86857c54-bf18-4275-81dc-f0c21f575784)
-
-Cart Functionality: Save, review, and pay for selected services.
-
-
-![image](https://github.com/user-attachments/assets/2d658277-c976-408e-b2dc-ad6df054ccc9)
-
-Admin Integration: Orders and payment confirmations are sent directly to admins.
-
-
-![image](https://github.com/user-attachments/assets/679f3eea-1bef-42b1-a77e-5cbd4f6f241d)
-
-
-FAQ Section: Provides users with rules, guarantees, and service policies.
-Feedback Button: Redirects users to a feedback channel or chat.
-Admin Controls: Flexible support for multiple administrators.
