@@ -29,21 +29,21 @@
 ## 🖼️ **Скріншоти**  
 
 ### **Мовна підтримка**  
-![Language Selection](![image](https://github.com/user-attachments/assets/c9a224cf-462f-4239-b754-86d338d7546a))
+(![image](https://github.com/user-attachments/assets/c9a224cf-462f-4239-b754-86d338d7546a))
 
 Користувачі можуть вибрати зручну мову для взаємодії з ботом.
 
 ### **Меню**  
-![Menu](![image](![image](https://github.com/user-attachments/assets/8804c903-9ca6-4391-a8bb-48d79fb68f43))
+(![image](![image](https://github.com/user-attachments/assets/8804c903-9ca6-4391-a8bb-48d79fb68f43))
 
 
 
 ### **Каталог бірж**  
-![Catalog](![image](https://github.com/user-attachments/assets/9001861e-04a5-4255-8a7b-fedbbf92dcd9))  
+(![image](https://github.com/user-attachments/assets/9001861e-04a5-4255-8a7b-fedbbf92dcd9))  
 Обирайте популярні біржі та доступні країни для верифікації.
 
 ### **Кошик**  
-![Cart](![image](https://github.com/user-attachments/assets/7e9cdec6-cb00-40c7-856a-630d54544753))  
+(![image](https://github.com/user-attachments/assets/7e9cdec6-cb00-40c7-856a-630d54544753))  
 Додавайте послуги до кошика, переглядайте деталі замовлень та переходьте до оплати.
 
 ### **FAQ та Правила**  
