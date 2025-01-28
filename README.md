@@ -29,27 +29,32 @@
 ## 🖼️ **Скріншоти**  
 
 ### **Мовна підтримка**  
-(![image](https://github.com/user-attachments/assets/c9a224cf-462f-4239-b754-86d338d7546a))
+![image](https://github.com/user-attachments/assets/c9a224cf-462f-4239-b754-86d338d7546a)
 
 Користувачі можуть вибрати зручну мову для взаємодії з ботом.
 
 ### **Меню**  
-(![image](https://github.com/user-attachments/assets/8804c903-9ca6-4391-a8bb-48d79fb68f43))
+![image](https://github.com/user-attachments/assets/8804c903-9ca6-4391-a8bb-48d79fb68f43)
 
 
 
 ### **Каталог бірж**  
-(![image](https://github.com/user-attachments/assets/9001861e-04a5-4255-8a7b-fedbbf92dcd9))  
+![image](https://github.com/user-attachments/assets/9001861e-04a5-4255-8a7b-fedbbf92dcd9)
 Обирайте популярні біржі та доступні країни для верифікації.
 
 ### **Кошик**  
-(![image](https://github.com/user-attachments/assets/7e9cdec6-cb00-40c7-856a-630d54544753))  
+![image](https://github.com/user-attachments/assets/7e9cdec6-cb00-40c7-856a-630d54544753)
 Додавайте послуги до кошика, переглядайте деталі замовлень та переходьте до оплати.
 
 ### **FAQ та Правила**  
-(![image](https://github.com/user-attachments/assets/d0ae358f-9a70-4395-9205-a11ef1cc496e)
-)  
+![image](https://github.com/user-attachments/assets/d0ae358f-9a70-4395-9205-a11ef1cc496e)
+
 Користувачі отримують детальні інструкції, правила сервісу та політики повернення.
+
+### **Скріншоти оплати**  
+![image](https://github.com/user-attachments/assets/ceacb4c4-8e3c-43a7-825d-3302b1576098)
+
+Користувачі можуть надіслати скріншоти оплати, які адміністратори отримують миттєво.
 
 
 
