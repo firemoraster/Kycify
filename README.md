@@ -34,7 +34,7 @@
 Користувачі можуть вибрати зручну мову для взаємодії з ботом.
 
 ### **Меню**  
-(![image](![image](https://github.com/user-attachments/assets/8804c903-9ca6-4391-a8bb-48d79fb68f43))
+(![image](https://github.com/user-attachments/assets/8804c903-9ca6-4391-a8bb-48d79fb68f43))
 
 
 
