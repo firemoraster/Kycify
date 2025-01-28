@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 KYCIFY Telegram Bot 🚀
 Description
 KYCIFY Bot is a multilingual Telegram bot providing account verification services for popular cryptocurrency exchanges like Bybit, OKX, Binance, and more. It allows users to select services, add them to a cart, view order details, and access detailed service rules and payment instructions.
@@ -24,7 +27,8 @@ Cart Functionality: Save, review, and pay for selected services.
 Admin Integration: Orders and payment confirmations are sent directly to admins.
 
 
-![image](https://github.com/user-attachments/assets/6f2519fc-70d0-4661-bb1d-80452d084459)
+![image](https://github.com/user-attachments/assets/679f3eea-1bef-42b1-a77e-5cbd4f6f241d)
+
 
 FAQ Section: Provides users with rules, guarantees, and service policies.
 Feedback Button: Redirects users to a feedback channel or chat.
