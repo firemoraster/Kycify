@@ -1,3 +1,10 @@
+[![Java](https://img.shields.io/badge/Java-11-blue?style=flat-square&logo=java)](https://www.java.com/)
+[![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-5.7-blue?style=flat-square&logo=telegram)](https://core.telegram.org/bots/api)
+[![Maven](https://img.shields.io/badge/Maven-3.8.6-orange?style=flat-square&logo=apache-maven)](https://maven.apache.org/)
+[![Multilingual Support](https://img.shields.io/badge/Multilingual-English%2C%20Ukrainian%2C%20Russian-green?style=flat-square)](https://github.com/)
+[![Build with IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blueviolet?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/idea/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)](https://github.com/)
 
 
 KYCIFY Telegram Bot 🚀
